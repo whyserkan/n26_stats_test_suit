@@ -1,0 +1,11 @@
+{
+  "name": "n26-consumer",
+  "version": "1.0.0",
+  "description": "consumer",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "serkan",
+  "license": "ISC"
+}
